@@ -1,0 +1,15 @@
+.TodoCardComponent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(203, 206, 206);
+    margin: 2rem 2rem;
+    border-radius: 1rem;
+    padding: 0rem 2rem ;
+}
+.content {
+    padding: 0rem 1rem ;
+}
+.TodoCardComponent img  {
+    width: 2rem;
+}
